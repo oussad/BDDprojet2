@@ -1,0 +1,5 @@
+behave==1.2.6
+webdriver-manager==3.8.5
+selenium==4.8.2
+#pip install -requirements.txt 'executer cette instruction pour installer les lyb'
+
